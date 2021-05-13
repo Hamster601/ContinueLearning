@@ -1,5 +1,5 @@
 # 持续学习
-===
+
 
 ## 1、开始
 
@@ -20,4 +20,3 @@
 * [Go Best Practice](https://learnku.com/go/wikis/38430)
 > 上面两篇文章指导你如何写出优美的Go代码。
 
-===
