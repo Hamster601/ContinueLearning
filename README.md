@@ -14,6 +14,9 @@
 * [Effective Go](https://learnku.com/docs/effective-go/2020)
 > 必读
 
+* [Go101](https://www.bookstack.cn/read/Golang101-v1.16.a-1/101.html)
+> 关于Go细节的一本开源书
+
 
 * [Go Code Review](https://learnku.com/go/wikis/48375)
 
