@@ -23,6 +23,7 @@
 * [Go Best Practice](https://learnku.com/go/wikis/38430)
 > 上面两篇文章指导你如何写出优美的Go代码。
 
+* [Go At Google](https://talks.golang.org/2012/splash.article)
 
 # 常见的数据结构实现
 
@@ -44,3 +45,5 @@
 - 红黑树
 - Tri树
 - B+树
+
+# 常见的排序算法及二分查找(这个很重要，MySQL的底层Innodb就是用了这个算法)
