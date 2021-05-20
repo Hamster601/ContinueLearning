@@ -72,7 +72,7 @@ func (this *Array) InsertToTail(v interface{}) error {
 }
 
 //删除索引index上的值
-func (this *Array) Delete(index uint) (int, error) {
+func (this *Array) Delete(index uint) (interface{}, error) {
 	if this.isIndexOutOfRange(index) {
 		return 0, errors.New("out of index range")
 	}
