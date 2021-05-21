@@ -40,9 +40,10 @@
 - [链表栈](datastruct/stack_on_list.go)
 - [单链表](datastruct/singel_list.go)
 - 双向链表
+- [LRU简单版(非并发安全)](datastruct/LRU.go)
 - 跳表
 - 哈希表
-- 二叉树
+- [二叉树](datastruct/binaryTree.go)
 - 平衡二叉树
 - 红黑树
 - Tri树
@@ -59,3 +60,8 @@
 - 快速排序
 - 归并排序
 - 桶排序
+
+# Go并发相关
+
+
+# 系统设计相关文章
