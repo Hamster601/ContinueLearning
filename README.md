@@ -31,10 +31,11 @@
 数据结构是很重要的，掌握常见的数据结构的实现，有助于你的代码设计能力。
 
 - [数组](datastruct/array.go)
-- 队列
+- [数组队列](datastruct/queue_on_array.go)
+- [链表队列](datastruct/queue_on_list.go)
 - 优先队列
 - 阻塞队列
-- 循环队列
+- [循环队列](datastruct/circle_queue.go)
 - [数组栈](datastruct/stack_on_array.go)
 - [链表栈](datastruct/stack_on_list.go)
 - [单链表](datastruct/singel_list.go)
@@ -48,3 +49,13 @@
 - B+树
 
 # 常见的排序算法及二分查找(这个很重要，MySQL的底层Innodb就是用了这个算法)
+
+===
+
+- 冒泡排序
+- 插入排序
+- 选择排序
+- 选择排序
+- 快速排序
+- 归并排序
+- 桶排序
