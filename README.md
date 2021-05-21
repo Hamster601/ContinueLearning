@@ -35,8 +35,9 @@
 - 优先队列
 - 阻塞队列
 - 循环队列
-- 链表
-- 单链表
+- [数组栈](datastruct/stack_on_array.go)
+- [链表栈](datastruct/stack_on_list.go)
+- [单链表](datastruct/singel_list.go)
 - 双向链表
 - 跳表
 - 哈希表
