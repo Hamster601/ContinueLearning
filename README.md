@@ -32,7 +32,7 @@
 - [数组](datastruct/array.go)
 - [数组队列](datastruct/queue_on_array.go)
 - [链表队列](datastruct/queue_on_list.go)
-- 优先队列
+- [优先队列](datastruct/priorityQueue/queue.go)
 - 阻塞队列
 - [循环队列](datastruct/circle_queue.go)
 - [数组栈](datastruct/stack_on_array.go)
