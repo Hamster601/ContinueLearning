@@ -60,7 +60,7 @@
 - [归并排序](datastruct/sort/merge_sort.go)
 - [桶排序](datastruct/sort/bubble_sort.go)
 - [计数排序](datastruct/sort/count_sort.go)
-- 二分查找
+- [二分查找](datastruct/search/binary_search.go)
 
 #### Go并发相关
 
