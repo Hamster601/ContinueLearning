@@ -40,7 +40,7 @@
 - [单链表](datastruct/singel_list.go)
 - 双向链表
 - [LRU简单版(非并发安全)](datastruct/LRU.go)
-- 跳表
+- [跳表](datastruct/skip_list.go)
 - 哈希表
 - [堆](datastruct/heap.go)
 - [二叉树](datastruct/binaryTree.go)
@@ -59,6 +59,7 @@
 - [归并排序](datastruct/sort/merge_sort.go)
 - [桶排序](datastruct/sort/bubble_sort.go)
 - [计数排序](datastruct/sort/count_sort.go)
+- 二分查找
 
 #### Go并发相关
 
