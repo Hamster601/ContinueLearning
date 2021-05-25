@@ -55,9 +55,8 @@
 - [冒泡排序](datastruct/sort/bubble_sort.go)
 - [插入排序](datastruct/sort/insert_sort.go)
 - [选择排序](datastruct/sort/select_sort.go)
-- 选择排序
-- 快速排序
-- 归并排序
+- [快速排序](datastruct/sort/quick_sort.go)
+- [归并排序](datastruct/sort/merge_sort.go)
 - 桶排序
 
 #### Go并发相关
