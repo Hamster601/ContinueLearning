@@ -49,6 +49,7 @@
 - 红黑树
 - Tri树
 - B+树
+- [位图](datastruct/bitmap.go)
 
 #### 常见的排序算法及二分查找(这个很重要，MySQL的底层Innodb就是用了这个算法)
 
