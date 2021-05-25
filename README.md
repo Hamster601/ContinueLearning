@@ -44,16 +44,17 @@
 - 哈希表
 - [堆](datastruct/heap.go)
 - [二叉树](datastruct/binaryTree.go)
-- 平衡二叉树
+- 二叉搜索树
+- [平衡二叉树](datastruct/AVL.go)
 - 红黑树
 - Tri树
 - B+树
 
 #### 常见的排序算法及二分查找(这个很重要，MySQL的底层Innodb就是用了这个算法)
 
-- 冒泡排序
-- 插入排序
-- 选择排序
+- [冒泡排序](datastruct/sort/bubble_sort.go)
+- [插入排序](datastruct/sort/insert_sort.go)
+- [选择排序](datastruct/sort/select_sort.go)
 - 选择排序
 - 快速排序
 - 归并排序
