@@ -24,6 +24,7 @@
 >> 上面两篇文章指导你如何写出优美的Go代码。
 
 * [Go At Google](https://talks.golang.org/2012/splash.article)
+* [Uber Go 编码规范](https://learnku.com/go/wikis/38426)
 
 #### 常见的数据结构实现
 
