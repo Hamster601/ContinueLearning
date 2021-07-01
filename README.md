@@ -39,10 +39,10 @@
 - [数组栈](datastruct/stack_on_array.go)
 - [链表栈](datastruct/stack_on_list.go)
 - [单链表](datastruct/singel_list.go)
-- 双向链表
+- [双向链表](datastruct/double_list.go)
 - [LRU简单版(非并发安全)](datastruct/LRU.go)
 - [跳表](datastruct/skip_list.go)
-- 哈希表
+- [哈希表](datastruct/hashtable.go)
 - [堆](datastruct/heap.go)
 - [二叉树](datastruct/binaryTree.go)
 - 二叉搜索树
