@@ -45,7 +45,7 @@
 - [哈希表](datastruct/hashtable.go)
 - [堆](datastruct/heap.go)
 - [二叉树](datastruct/binaryTree.go)
-- 二叉搜索树
+- [二叉搜索树](datastruct/binary_search_tree.go)
 - [平衡二叉树](datastruct/AVL.go)
 - 红黑树
 - Tri树
